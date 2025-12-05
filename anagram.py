@@ -1,5 +1,5 @@
-# print(ord("a"))
-# print(chr(97))
+print(ord("a"))
+print(chr(97))
 
 x = "Cat"
 y = "act"
